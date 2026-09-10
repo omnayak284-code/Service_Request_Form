@@ -1,4 +1,4 @@
-# PERN Full Stack Form Submission - Service Request
+# MERN Full Stack Form Submission - Service Request
 
 A full-stack PERN application to create, validate, and persist service requests into PostgreSQL.
 
